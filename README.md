@@ -9,6 +9,8 @@ To test the App, it is necesary to run locally, but before that you must to inst
 
 The App runs at local host 3000
 
+"yarn start" or "npm start"
+
 ![image](https://user-images.githubusercontent.com/84286517/195588040-ee112239-3f54-43fd-a943-e8ade0fcbbed.png)
 
 
